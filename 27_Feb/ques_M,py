@@ -16,9 +16,8 @@ Sample Input 0
 
 Sample Output 0
 False
-
-
 '''
+
 
 def is_leap(year):
     leap =False
